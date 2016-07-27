@@ -1,1 +1,4 @@
 stories-ms-message: Stories-MicroService
+story:
+  name: My Story
+  Author: My Author
