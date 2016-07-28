@@ -1,6 +1,6 @@
 stories-ms-message: Antos Stories
-stories: 
- story:
+finder: 
+ stories:
   -
     author: Antony
     content: "Some story by day"
