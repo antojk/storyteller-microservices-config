@@ -11,3 +11,9 @@ finder:
     content: "Some story by day"
     id: 2
     name: "My Story"
+  - 
+    author: Meena
+    content: "Some story by day"
+    id: 3
+    name: "My Story"
+
