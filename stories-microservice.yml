@@ -8,9 +8,9 @@ finder:
     name: "My Story"
   -
     author: Noor
-    content: "Some story by day"
+    content: "a story by Noor"
     id: 2
-    name: "My Story"
+    name: "Boring Story"
   - 
     author: Meena
     content: "A story untold"
