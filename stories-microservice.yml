@@ -1,6 +1,12 @@
 stories-ms-message: Antos Stories
 story: 
+  -
     Author: Antony
     content: "Some story by day"
     id: 1
+    name: "My Story"
+  -
+    Author: Noor
+    content: "Some story by day"
+    id: 2
     name: "My Story"
