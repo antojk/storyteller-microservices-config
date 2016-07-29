@@ -16,4 +16,8 @@ finder:
     content: "A story untold"
     id: 3
     name: "great Story"
-
+  - 
+    author: Deepak
+    content: "A story "
+    id: 4
+    name: "great Story"
