@@ -7,3 +7,7 @@ logging:
 # file: /var/memento/security.log
   level:
     com.codependent: 'INFO'
+eureka:
+  client:
+    healthcheck:
+      enabled: true
