@@ -21,3 +21,8 @@ finder:
     content: "A story "
     id: 4
     name: "great Story"
+  - 
+    author: Aparajita
+    content: "Lots of stories"
+    id:5
+    name: "A Story"
