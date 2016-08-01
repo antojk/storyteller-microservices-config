@@ -19,7 +19,7 @@ finder:
     content: "a story by Antony"
     id: 1
     name: "My Story"
-    -
+  -
     author: Nagameena
     content: "a story by Antony"
     id: 1
