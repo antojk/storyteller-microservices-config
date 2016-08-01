@@ -11,3 +11,11 @@ eureka:
   client:
     healthcheck:
       enabled: true
+      
+finder: 
+ stories:
+  -
+    author: Antony
+    content: "a story by Antony"
+    id: 1
+    name: "My Story"
