@@ -1,1 +1,8 @@
 stories-ms-message: stories
+finder: 
+ stories:
+  -
+    author: Noor
+    content: "a story by Noor"
+    id: 3
+    name: "My Story"
