@@ -19,3 +19,8 @@ finder:
     content: "a story by Antony"
     id: 1
     name: "My Story"
+  -
+    author: Noor
+    content: "a story by Noor"
+    id: 3
+    name: "My Story"
