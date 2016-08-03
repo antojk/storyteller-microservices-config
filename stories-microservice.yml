@@ -1,4 +1,4 @@
-stories-ms-message: Antos Stories - new changed nnnnnnnn
+stories-ms-message: Nagameena Stories
 finder: 
  stories:
   -
@@ -12,7 +12,7 @@ finder:
     id: 2
     name: "Boring Story"
   - 
-    author: Nagameena - Latest
+    author: Nagameena
     content: "A story untold"
     id: 3
     name: "great Story"
